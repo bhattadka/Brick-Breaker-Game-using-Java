@@ -52,7 +52,7 @@ This class file handles the core gameplay mechanics, including player input, bal
 
 - `GameInterface.png`: Screenshot of the main game interface.
 - `GameWon.png`: Image displayed when the game is won.
-- `Game_Lost.png`: Image displayed when the game is lost.
+- `GameLost.png`: Image displayed when the game is lost.
 
 ## Technologies Used
 
