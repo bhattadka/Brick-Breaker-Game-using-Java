@@ -1,6 +1,6 @@
 # Brick-Breaker-Game-using-Java
 
-Welcome to the Brick Breaker Game repository! This project is a classic brick-breaker game implemented in Java. The game includes features like multiple levels, game won/lost conditions, and a dynamic interface.
+Welcome to the Brick Breaker Game repository! This project is a classic brick-breaker game implemented in Java. The game includes features like  game won/lost conditions , scoreboard and a dynamic interface.
 
 ## Table of Contents
 
